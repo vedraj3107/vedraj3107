@@ -1,8 +1,8 @@
-![]
+![logo](https://github.com/vedraj3107/vedraj3107/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vedraj Chavan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img align="right" alt="coding" width="350" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
